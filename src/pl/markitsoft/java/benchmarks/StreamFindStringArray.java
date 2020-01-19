@@ -1,4 +1,4 @@
-package pl.markitsof.java.benchmarks;
+package pl.markitsoft.java.benchmarks;
 
 import java.util.stream.Stream;
 
