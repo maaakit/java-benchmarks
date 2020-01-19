@@ -42,4 +42,4 @@ enumByStream == :                TEN           692953800 ns
 enumByStreamEquals:              TEN           705611800 ns 
 enumByStream func == :           TEN           726545600 ns 
 enumByStream func equals:        TEN           702313900 ns 
-</pre>pre>
+</pre>
